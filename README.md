@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- ⌨️ Senior Front-End Developer
+- 🌱 Blogging and tech reviews at AFUNNY.TOP
+
 <!--
 **yoodz/yoodz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
