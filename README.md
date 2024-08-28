@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - ⌨️ Senior Front-End Developer
-- 🌱 Blogging and tech reviews at [AFUNNY.TOP](www.afunny.top)
+- 🌱 Blogging and tech reviews at [AFUNNY.TOP](https://www.afunny.top)
 
 <!--
 **yoodz/yoodz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
